@@ -24,8 +24,8 @@ It presents users with a series of multiple-choice questions, provides instant f
 
 ## ▶️ Live Coding Video
 
-Watch me build this quiz app from scratch on YouTube:  
-👉 [Insert your YouTube video link here](https://your-youtube-video-link)
+Watch me build this quiz app on YouTube:  
+👉 [Insert your YouTube video link here](https://your-youtube-video-link) - wait a moment :)
 
 ---
 
