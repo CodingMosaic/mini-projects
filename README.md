@@ -14,8 +14,8 @@ You can follow my coding journey and watch the creation of these projects here:
 Below is a list of the mini-projects included in this repository.  
 More will be added regularly.
 
-1. [🗽 New York Timer](./New-York-Timer)
-2. [🧠 Quiz App](./quiz-app)
+1. [New York Timer](./New-York-Timer)
+2. [Quiz App](./quiz-app)
 
 <!-- - [Project 1 – Example Title](./project-folder-name) -->
 
