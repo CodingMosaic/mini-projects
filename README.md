@@ -33,7 +33,3 @@ More will be added regularly.
 - Build reusable UI components and logic  
 - Practice modern technologies like React and TypeScript  
 - Share educational coding videos on YouTube
-
-## 📅 Status
-
-**Work in progress** – New mini-projects are added regularly.
